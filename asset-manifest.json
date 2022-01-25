@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BReactCRUDApp%7D/static/css/main.e6c13ad2.css",
+    "main.js": "/%7BReactCRUDApp%7D/static/js/main.c2202999.js",
+    "index.html": "/%7BReactCRUDApp%7D/index.html",
+    "main.e6c13ad2.css.map": "/%7BReactCRUDApp%7D/static/css/main.e6c13ad2.css.map",
+    "main.c2202999.js.map": "/%7BReactCRUDApp%7D/static/js/main.c2202999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c2202999.js"
+  ]
+}
